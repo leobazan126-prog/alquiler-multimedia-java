@@ -1,5 +1,7 @@
 # Bibliomedia - Control de Prestamos
 
+Note: This documentation is also available in [English](README.en.md)
+
 Proyecto de practica en Java para gestionar el prestamo de peliculas y videojuegos entre alumnos y profesores.
 
 Permite registrar personas, consultar articulos multimedia y controlar las fechas de entrega tanto desde la consola de comandos como desde una interfaz web basica que se ejecuta en el navegador.
